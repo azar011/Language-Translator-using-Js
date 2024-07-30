@@ -31,11 +31,11 @@ This is a simple language translator web application built using pure HTML, CSS,
 For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo](https://azar011.github.io/Language-Translator-using-Js/)
 ## Feedback and Contributions
 
-If you find any issues with the application or have suggestions for improvement, please feel free to create an issue or submit a pull request on the [GitHub repository](https://github.com/Venkateeshh/Js-Language-Translator). Your feedback and contributions are highly appreciated!
+If you find any issues with the application or have suggestions for improvement, please feel free to create an issue or submit a pull request on the [GitHub repository](https://github.com/azar011/Language-Translator-using-Js). Your feedback and contributions are highly appreciated!
 
 ## About the Author
 
-This language translator web application is developed and maintained by **azar011**. I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
+This language translator web application is developed and maintained by [Azarudeen B](http://github.com/azar011). I am a passionate web developer with a keen interest in building useful and innovative projects using various web technologies.
 
 Thank you for checking out this project! If you find it helpful, don't forget to give it a star and share it with others. Happy translating!
 
